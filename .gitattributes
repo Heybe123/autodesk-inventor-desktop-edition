@@ -1,0 +1,13 @@
+*.gif binary
+*.md linguist-documentation
+src/**/*.tsx linguist-detectable
+node_modules/* linguist-vendored
+*.tsx linguist-detectable
+public/index.html linguist-vendored
+
+*.yaml linguist-detectable=false
+package-lock.json linguist-generated
+*.min.js linguist-generated
+
+go.sum linguist-generated
+*.htm linguist-vendored

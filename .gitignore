@@ -1,0 +1,6 @@
+.pnpm-store/
+*.log
+.cache/
+dist/
+.env.local
+.next/
